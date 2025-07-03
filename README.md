@@ -72,35 +72,6 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 ---
 
-## My Skills Summary 
-
-🔹 **Data Science Programming & Data Manipulation**  
-- Proficient in **Python** and **SQL**  
-- Manipulating data using **pandas** and **NumPy**  
-- Extracting data from **CSV, JSON, SQL (SQLite), and NoSQL (MongoDB)**  
-- Consuming **web APIs** using HTTP requests  
-
-🔹 **AI and Machine Learning Analytics**  
-- Building ML models with **scikit-learn, imbalanced-learn, and statsmodels**  
-- Applying **supervised and unsupervised learning** techniques  
-- Creating **ETL pipelines** to prepare training sets
-- Interpreting model behavior using **Partial Dependence Plots** and understanding individual predictions utilizing advanced **SHAP techniques** for in-depth insights
-
-🔹 **Data Visualization & Dashboards**  
-- Crafting visualizations using **Matplotlib, Plotly Express, and Seaborn**  
-- Building **interactive dashboards** with **IPyWidgets and Plotly Dash**  
-- Communicating insights effectively to non-technical audiences  
-
-🔹 **Model Deployment & API Development**  
-- Developing APIs with **FastAPI, Pydantic, and Uvicorn**  
-- Deploying ML models for real-world applications  
-
-🔹 **Ethical AI & Responsible Data Science**  
-- Ensuring fairness by addressing **bias in datasets and ML models**  
-- Balancing **model performance with environmental impact**  
-
----
-
 ## [Certifications & Awards](https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
 
 <p align="center">
@@ -141,31 +112,7 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 ---
 
-**Feel free to reach out or explore my repositories to see how I am using Data Science to turn data into actionable insights**.
-
----
-
-## Technical Skill-Tool Tags   
-
-|  Programming & Data Manipulation |  Machine Learning & Model Development |  Feature Engineering & Preprocessing |
-|-----------------------------------|-----------------------------------|--------------------------------|
-| Python • SQL • Pandas • NumPy | Scikit-learn • Imbalanced-learn • Statsmodels | Data Preprocessing • Feature Engineering |
-| CSV • JSON • SQL (SQLite, PostgreSQL) | Supervised and Unsupervised Learning | One-Hot Encoding • Label Encoding |
-| NoSQL (MongoDB) • Web APIs | ML Model Development • XGBoost • Random Forest | Target Encoding • Mutual Information |
-|  | Gradient Boosting • Decision Trees • SVM | Variance Thresholding • K-Means Clustering |
-|  |  | Principal Component Analysis (PCA) |
-
-|  Model Evaluation & Optimization |  Data Visualization & Dashboards |  Model Deployment & APIs |
-|-----------------------------------|-----------------------------------|------------------------------|
-| Cross-Validation • Stratified K-Fold | Matplotlib • Seaborn | FastAPI • Flask |
-| ROC-AUC • F1-score | Plotly Express • Plotly Dash | Pydantic • Uvicorn |
-| Precision-Recall Curve | IPyWidgets • TSNE | Docker • ETL Pipelines |
-| Permutation Importance |  |  |
-| SHAP (SHapley Additive Explanations) |  |  |
-| Partial Dependence Plots (PDP) |  |  |
-| Data Leakage Prevention |  |  |
-| GridSearchCV • RandomizedSearchCV |  |  |
-
----
+**Feel free to reach out or explore my repositories to see how I am using Data Analysis to turn data into actionable insights**.
+- ## 💻 ** CLICK HERE TO GO TO MY GIT HUB PROJECT:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
 
 ---
