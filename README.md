@@ -1,4 +1,5 @@
-![DATA ANALYST (2)](https://github.com/user-attachments/assets/c5d319da-c178-45d1-9d59-9eb636aae2cf)
+![DATA ORGANOGRAM](https://github.com/user-attachments/assets/8817fd14-4a87-4e4b-87f2-b9fb5704a2a1)
+![data analyst card](https://github.com/user-attachments/assets/d2f50799-43ba-41f1-a7ac-e51536145370)
 
 I am a **data analyst** interested in turning data into **clear, actionable insights**. With my practical experience in using **Advanced Excel**, **SQL**, **Power BI**, and **Python analytical tools**, I aim to help organizations and businesses make **data-informed decisions** across their business environments and improve **business growth and development** through **insightful data solutions**.
 
@@ -65,8 +66,7 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 ---
 
-
-
+![Uploading DATA ORGANOGRAM.png…]()
 
 ---
 
