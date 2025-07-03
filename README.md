@@ -25,7 +25,7 @@ I am committed to **continuous learning** and documenting my journey in data ana
       <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/R-blue?logo=r&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white" style="height:40px;">
