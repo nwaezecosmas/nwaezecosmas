@@ -63,21 +63,41 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
+## Org Chart: Data Analyst Ecosystem
+
 ```mermaid
-graph TD
-    A[Data Analyst] --> B[Business Analyst]
-    A --> C[Product Analyst]
-    A --> D[Growth Analyst]
-    A --> E[Marketing Analyst]
-    A --> F[Financial Analyst]
-    A --> G[Operations Analyst]
-    A --> H[Risk Analyst]
-    A --> I[Healthcare Analyst]
-    A --> J[Power BI Developer]
-    A --> K[Reporting Analyst]
-    A --> L[Decision Support Analyst]
-    A --> M[Management Information Systems Executive]
-    A --> N[Insight Analyst]
+graph TB
+    subgraph Outer Roles
+        B[Business Analyst]
+        C[Product Analyst]
+        D[Growth Analyst]
+        E[Marketing Analyst]
+        F[Financial Analyst]
+        G[Operations Analyst]
+        H[Risk Analyst]
+        I[Healthcare Analyst]
+        J[Power BI Developer]
+        K[Reporting Analyst]
+        L[Decision Support Analyst]
+        M[Management Info. Sys. Executive]
+        N[Insight Analyst]
+    end
+
+    A((Data Analyst))
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+    A --> H
+    A --> I
+    A --> J
+    A --> K
+    A --> L
+    A --> M
+    A --> N
 
 ---
 ## My Skills Summary 
