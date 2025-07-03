@@ -31,18 +31,18 @@ I am committed to **continuous learning** and documenting my journey in data ana
       <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?logo=openai&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Excel-purple?logo=microsoft-excel&logoColor=white" style="height:40px;">
     </td>
   </tr>
   <tr>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Machine%20Learning-green?logo=scikit-learn&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Data%20Science-darkgreen?logo=openai&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Statistics-orange?logo=bar-chart&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Statistics%20Maths-orange?logo=bar-chart&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Maths-red?logo=numpy&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Data%20Storytelling -red?logo=numpy&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=tableau&logoColor=white" style="height:40px;">
@@ -50,13 +50,13 @@ I am committed to **continuous learning** and documenting my journey in data ana
   </tr>
   <tr>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Domain%20Knowledge-lightblue?logo=knowledge&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/AI%20&%20ML%20Knowledge-lightblue?logo=knowledge&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Model%20Development-darkgreen?logo=tensorflow&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Data%20Modeling-darkgreen?logo=tensorflow&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Big%20Data-darkblue?logo=apache-spark&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Data%20Automation -darkblue?logo=apache-spark&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=fastapi&logoColor=white" style="height:40px;">
