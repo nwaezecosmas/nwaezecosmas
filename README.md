@@ -63,23 +63,25 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
-mermaid
-graph LR
-    A[Data Analyst] --- B1[Business Analyst]
-    A --- B2[Product Analyst]
-    A --- B3[Growth Analyst]
-    A --- B4[Marketing Analyst]
-    A --- B5[Financial Analyst]
-    A --- B6[Operations Analyst]
-    A --- B7[Risk Analyst]
-    A --- B8[Healthcare Analyst]
-    A --- B9[Power BI Developer]
-    A --- B10[Reporting Analyst]
-    A --- B11[Decision Support Analyst]
-    A --- B12[Management Information Systems Executive]
-    A --- B13[Insight Analyst]
-    style A fill:#f9f,stroke:#333,stroke-width:4px
+# Data Analyst Org Chart
 
+## Central Role
+* 🤝 **Data Analyst**
+
+## Related Roles
+* 📊 Business Analyst
+* 📈 Product Analyst
+* 🚀 Growth Analyst
+* 📢 Marketing Analyst
+* 💸 Financial Analyst
+* 📦 Operations Analyst
+* ⚠ Risk Analyst
+* 🏥 Healthcare Analyst
+* 📊 Power BI Developer
+* 📈 Reporting Analyst
+* 🤔 Decision Support Analyst
+* 📊 Management Information Systems Executive
+* 💡 Insight Analyst
 
 ---
 ## My Skills Summary 
