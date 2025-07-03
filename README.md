@@ -9,10 +9,11 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 ## About Me
 - 📍 Based in **Nigeria**
+- 📊  **Data Analyst Portfolio and Documentation:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
+- 🎓 **Certifications:** (https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
 - 🖥️ **Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
 - 💻 **Github Projects:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
 - ✉️ **Contact me at:** [Email](cosmasnwaeze19@.com)
-- 🤝 Open to **collaborating** on data science projects
 - 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/nwaezecosmas)
 
 
