@@ -63,25 +63,21 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
-# Data Analyst Org Chart
-
-## Central Role
-* 🤝 **Data Analyst**
-
-## Related Roles
-* 📊 Business Analyst
-* 📈 Product Analyst
-* 🚀 Growth Analyst
-* 📢 Marketing Analyst
-* 💸 Financial Analyst
-* 📦 Operations Analyst
-* ⚠ Risk Analyst
-* 🏥 Healthcare Analyst
-* 📊 Power BI Developer
-* 📈 Reporting Analyst
-* 🤔 Decision Support Analyst
-* 📊 Management Information Systems Executive
-* 💡 Insight Analyst
+```mermaid
+graph TD
+    A[Data Analyst] --> B[Business Analyst]
+    A --> C[Product Analyst]
+    A --> D[Growth Analyst]
+    A --> E[Marketing Analyst]
+    A --> F[Financial Analyst]
+    A --> G[Operations Analyst]
+    A --> H[Risk Analyst]
+    A --> I[Healthcare Analyst]
+    A --> J[Power BI Developer]
+    A --> K[Reporting Analyst]
+    A --> L[Decision Support Analyst]
+    A --> M[Management Information Systems Executive]
+    A --> N[Insight Analyst]
 
 ---
 ## My Skills Summary 
