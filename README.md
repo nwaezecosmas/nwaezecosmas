@@ -1,16 +1,19 @@
 ![DATA ANALYST (2)](https://github.com/user-attachments/assets/c5d319da-c178-45d1-9d59-9eb636aae2cf)
 
-I am a **data scientist** interested and Proficient in AI and ML Engineering in Data Science with expertise in transforming raw data into actionable insights. With skills in **Python, SQL, Machine Learning, and Data Visualization**, I specialize in building predictive models, performing deep data analyses, and crafting insightful visualizations to drive data-driven decision-making.
+I am a **data analyst** interested in turning data into **clear, actionable insights**. With my practical experience in using **Advanced Excel**, **SQL**, **Power BI**, and **Python analytical tools**, I aim to help organizations and businesses make **data-informed decisions** across their business environments and improve **business growth and development** through **insightful data solutions**.
 
-I am committed to **continuous learning** and documenting my journey in data science, combining technical precision with creativity to solve real-world problems.
+My focus is on delivering **accurate analysis**, **meaningful visualizations**, and **automated reporting solutions** that support **strategic goals**.  
+This profile is a reflection of my **learning journey**, **project work**, and **commitment to solving real-world data problems** using my **technical skills** and **analytical thinking**.
+
+I am committed to **continuous learning** and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
 ## About Me
 - 📍 Based in **Nigeria**
-- 🖥️ **Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
-- 💻 **Github Projects:** [View my Github projects](https://github.com/cosmasnwaeze?tab=repositories)
+- 🖥️ **Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
+- 💻 **Github Projects:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
 - ✉️ **Contact me at:** [Email](cosmasnwaeze19@.com)
 - 🤝 Open to **collaborating** on data science projects
-- 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/cosmasnwaeze19)
+- 🔗 **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/nwaezecosmas)
 
 
 ## Badges  
@@ -62,43 +65,11 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
-## Org Chart: Data Analyst Ecosystem
 
-```mermaid
-graph TB
-    subgraph Outer Roles
-        B[Business Analyst]
-        C[Product Analyst]
-        D[Growth Analyst]
-        E[Marketing Analyst]
-        F[Financial Analyst]
-        G[Operations Analyst]
-        H[Risk Analyst]
-        I[Healthcare Analyst]
-        J[Power BI Developer]
-        K[Reporting Analyst]
-        L[Decision Support Analyst]
-        M[Management Info. Sys. Executive]
-        N[Insight Analyst]
-    end
 
-    A((Data Analyst))
-
-    A --> B
-    A --> C
-    A --> D
-    A --> E
-    A --> F
-    A --> G
-    A --> H
-    A --> I
-    A --> J
-    A --> K
-    A --> L
-    A --> M
-    A --> N
 
 ---
+
 ## My Skills Summary 
 
 🔹 **Data Science Programming & Data Manipulation**  
