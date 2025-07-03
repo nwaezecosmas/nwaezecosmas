@@ -63,6 +63,40 @@ I am committed to **continuous learning** and documenting my journey in data sci
 
 ---
 
+mermaid
+graph TD
+    A[Data Analyst] --> B1[Business Analyst]
+    A --> B2[Product Analyst]
+    A --> B3[Growth Analyst]
+    A --> B4[Marketing Analyst]
+    A --> B5[Financial Analyst]
+    A --> B6[Operations Analyst]
+    A --> B7[Risk Analyst]
+    A --> B8[Healthcare Analyst]
+    A --> B9[Power BI Developer]
+    A --> B10[Reporting Analyst]
+    A --> B11[Decision Support Analyst]
+    A --> B12[Management Information Systems Executive]
+    A --> B13[Insight Analyst]
+    B9 --> B14[Power BI Developer]
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B1 fill:#ace,stroke:#333,stroke-width:2px
+    style B2 fill:#ace,stroke:#333,stroke-width:2px
+    style B3 fill:#ace,stroke:#333,stroke-width:2px
+    style B4 fill:#ace,stroke:#333,stroke-width:2px
+    style B5 fill:#ace,stroke:#333,stroke-width:2px
+    style B6 fill:#ace,stroke:#333,stroke-width:2px
+    style B7 fill:#ace,stroke:#333,stroke-width:2px
+    style B8 fill:#ace,stroke:#333,stroke-width:2px
+    style B9 fill:#ace,stroke:#333,stroke-width:2px
+    style B10 fill:#ace,stroke:#333,stroke-width:2px
+    style B11 fill:#ace,stroke:#333,stroke-width:2px
+    style B12 fill:#ace,stroke:#333,stroke-width:2px
+    style B13 fill:#ace,stroke:#333,stroke-width:2px
+    style B14 fill:#ace,stroke:#333,stroke-width:2px
+
+
+---
 ## My Skills Summary 
 
 🔹 **Data Science Programming & Data Manipulation**  
