@@ -1,9 +1,9 @@
 ![data analyst card](https://github.com/user-attachments/assets/d2f50799-43ba-41f1-a7ac-e51536145370)
 
-I am a **data analyst** interested in turning data into **clear, actionable insights**. With my practical experience in using **Advanced Excel**, **SQL**, **Power BI**, and **Python analytical tools**, I aim to help organizations and businesses make **data-informed decisions** across their business environments and improve **business growth and development** through **insightful data solutions**.
+I am a **data analyst** interested in turning data into **clear, actionable insights**. With my practical experience in using **Advanced Excel**, **SQL**, **Power BI** and **Python analytical tools**, I aim to help organizations and businesses make **data-informed decisions** across their business environments and improve **business growth and development** through **insightful data solutions**.
 
-My focus is on delivering **accurate analysis**, **meaningful visualizations**, and **automated reporting solutions** that support **strategic goals**.  
-This profile is a reflection of my **learning journey**, **project work**, and **commitment to solving real-world data problems** using my **technical skills** and **analytical thinking**.
+I focus on reducing production costs, enabling faster and better decision-making, and improving products and services, by delivering **accurate analysis**, **meaningful visualizations** and **automated reporting solutions** that support **strategic goals**.  
+This profile is a reflection of my **learning journey**, **project work** and **commitment to solving real-world data problems** using my **technical skills** and **analytical thinking**.
 
 I am committed to **continuous learning** and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
