@@ -22,44 +22,44 @@ I am committed to **continuous learning** and documenting my journey in data ana
 <table style="width:100%; text-align:center;">
   <tr>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/PYTHON-blue?logo=python&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/POWER%20BI-yellow?logo=powerbi&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/SQL-blue?logo=mysql&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Excel-purple?logo=microsoft-excel&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/EXCEL-purple?logo=microsoft-excel&logoColor=white" style="height:40px;">
     </td>
   </tr>
   <tr>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Data%20Science-darkgreen?logo=openai&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/DATA%20SCIENCE-darkgreen?logo=openai&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Statistics%20&%20Maths-orange?logo=bar-chart&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/STATISTICS%20&%20MATHS-orange?logo=bar-chart&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Data%20Storytelling -red?logo=numpy&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/DATA%20STORYTELLING-red?logo=numpy&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Data%20Visualization-yellow?logo=tableau&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-yellow?logo=tableau&logoColor=white" style="height:40px;">
     </td>
   </tr>
   <tr>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/AI%20&%20ML%20Knowledge-lightblue?logo=knowledge&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/AI%20&%20ML%20KNOWLEDGE-lightblue?logo=knowledge&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Data%20Modeling-darkgreen?logo=tensorflow&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/DATA%20MODELING-darkgreen?logo=tensorflow&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Data%20Automation -darkblue?logo=apache-spark&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/DATA%20AUTOMATION-darkblue?logo=apache-spark&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=fastapi&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/API%20%2F%20DATABASE-darkblue?logo=fastapi&logoColor=white" style="height:40px;">
     </td>
   </tr>
   <tr>
