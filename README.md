@@ -39,7 +39,7 @@ I am committed to **continuous learning** and documenting my journey in data ana
       <img src="https://img.shields.io/badge/Data%20Science-darkgreen?logo=openai&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/Statistics%20Maths-orange?logo=bar-chart&logoColor=white" style="height:40px;">
+      <img src="https://img.shields.io/badge/Statistics%20&%20Maths-orange?logo=bar-chart&logoColor=white" style="height:40px;">
     </td>
     <td width="25%" style="padding: 20px;">
       <img src="https://img.shields.io/badge/Data%20Storytelling -red?logo=numpy&logoColor=white" style="height:40px;">
@@ -62,6 +62,34 @@ I am committed to **continuous learning** and documenting my journey in data ana
       <img src="https://img.shields.io/badge/API%20%2F%20Database-darkblue?logo=fastapi&logoColor=white" style="height:40px;">
     </td>
   </tr>
+  <tr>
+    <td width="25%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/TABLEAU-005B9A?logo=tableau&logoColor=white" style="height:40px;">
+    </td>
+    <td width="25%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/MONGODB-47A248?logo=mongodb&logoColor=white" style="height:40px;">
+    </td>
+    <td width="25%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/JULIA-A270BA?logo=julia&logoColor=white" style="height:40px;">
+    </td>
+    <td width="25%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=Mathworks&logoColor=white" style="height:40px;">
+    </td>
+  </tr>
+  <tr>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" style="height:40px;">
+  </td>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/SPSS-0066CC?logo=ibm&logoColor=white" style="height:40px;">
+  </td>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white" style="height:40px;">
+  </td>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/SAS-005DAC?logo=sas&logoColor=white" style="height:40px;">
+  </td>
+</tr>
 </table>
 
 ---
