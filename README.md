@@ -90,6 +90,20 @@ I am committed to **continuous learning** and documenting my journey in data ana
     <img src="https://img.shields.io/badge/SAS-005DAC?logo=sas&logoColor=white" style="height:40px;">
   </td>
 </tr>
+<tr>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/ETL-orange?logo=data&logoColor=white" style="height:40px;">
+  </td>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/CRM-9cf?logo=hubspot&logoColor=white" style="height:40px;">
+  </td>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/STATA-darkblue?logo=stata&logoColor=white" style="height:40px;">
+  </td>
+  <td width="25%" style="padding: 20px;">
+    <img src="https://img.shields.io/badge/LOOKER%20STUDIO-lightgrey?logo=googleanalytics&logoColor=blue" style="height:40px;">
+  </td>
+</tr>  
 </table>
 
 ---
