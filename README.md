@@ -9,7 +9,7 @@ This profile is a reflection of my **learning journey**, **project work** and **
 
 I am committed to **continuous learning** and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
-#  📊  **My Data Analyst Portfolio:** **[View my projects]**(https://medium.com/@cosmasnwaeze)
+#  📊  **My Data Analyst Portfolio:** [View my projects](https://medium.com/@cosmasnwaeze)
 
 - 🎓  **Certifications:** (https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
 - 🖥️  **Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
