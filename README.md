@@ -119,13 +119,13 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 <p align="center">
   <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
-  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/DA%20SKill.jpg" width="30%" alt="Certificate 2">
   <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Data%20Literacy.jpg" width="30%" alt="Certificate 3">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/DA%20SKill.jpg" width="30%" alt="Certificate 2">
 </p>
 
 <p align="center">
-  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 6">
   <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 10">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 6">
   <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 11">
 </p>
 
@@ -136,7 +136,6 @@ I am committed to **continuous learning** and documenting my journey in data ana
 </p>
 
 <p align="center">
-  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/NWAEZE%20COSMAS%20DA%20AITI.png" width="30%" alt="Certificate 14">
   <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/NWAEZE%20COSMAS%20DA%20AITI.png" width="30%" alt="Certificate 14">
   <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/AI%20Fund%20CompleteMess.jpg" width="30%" alt="Certificate 14">
 </p>
