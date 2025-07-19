@@ -115,37 +115,40 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 ---
 
-## [Certifications & Awards](https://github.com/nwaezecosmas/nwaezecosmas/tree/main/)
+## [Certifications & Awards](https://github.com/nwaezecosmas/nwaezecosmas)
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/DA%20SKill.jpg" width="30%" alt="Certificate 2">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Data%20Literacy.jpg" width="30%" alt="Certificate 3">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/WQU%20DS%20Cert.jpg" width="30%" alt="Certificate 1">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/DA%20SKill.jpg" width="30%" alt="Certificate 2">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Data%20Literacy.jpg" width="30%" alt="Certificate 3">
 </p>
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 6">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/AI%20Fund%20Cert.jpg" width="30%" alt="Certificate 6">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 10">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 11">
 </p>
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Intro%20to%20Programming.png" width="30%" alt="Certificate 10">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Python.png" width="30%" alt="Certificate 11">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Pandas.png" width="30%" alt="Certificate 12">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Pandas.png" width="30%" alt="Certificate 12">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Cleaning.png" width="30%" alt="Certificate 14">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Visualization.png" width="30%" alt="Certificate 13">
 </p>
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Visualization.png" width="30%" alt="Certificate 13">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/Nwaeze%20Cosmas%20Kelechi%20-%20Data%20Cleaning.png" width="30%" alt="Certificate 14">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/NWAEZE%20COSMAS%20DA%20AITI.png" width="30%" alt="Certificate 14">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/NWAEZE%20COSMAS%20DA%20AITI.png" width="30%" alt="Certificate 14">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/AI%20Fund%20CompleteMess.jpg" width="30%" alt="Certificate 14">
 </p>
 
 <p align="center">
-  <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CTA%20Bootcamp.jpg" width="30%" alt="Certificate 17">
+  <img src="https://github.com/nwaezecosmas/nwaezecosmas/blob/main/CWW%20DA%20Cert.jpg" width="30%" alt="Certificate 17">
   <img src="https://github.com/cosmasnwaeze/cosmasnwaeze/blob/main/CWW%20DA%20Cert.jpg" width="30%" alt="Certificate 19">
 </p>
 
 ---
 
-**Feel free to reach out or explore my repositories to see how I am using Data Analysis to turn data into actionable insights**.
+### **Feel free to reach out or explore my repositories to see how I am using Data Analysis to turn data into actionable insights**.
 - ## 💻 ** CLICK HERE TO GO TO MY GIT HUB PROJECT:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
 
 ---
