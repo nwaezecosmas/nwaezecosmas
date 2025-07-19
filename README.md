@@ -1,5 +1,7 @@
 ![data analyst card](https://github.com/user-attachments/assets/d2f50799-43ba-41f1-a7ac-e51536145370)
 
+## About Me
+
 I am a **data analyst** interested in turning data into **clear, actionable insights**. With my practical experience in using **Advanced Excel**, **SQL**, **Power BI** and **Python analytical tools**, I aim to help organizations and businesses make **data-informed decisions** across their business environments and improve **business growth and development** through **insightful data solutions**.
 
 I focus on reducing production costs, enabling faster and better decision-making, and improving products and services, by delivering **accurate analysis**, **meaningful visualizations** and **automated reporting solutions** that support **strategic goals**.  
@@ -7,8 +9,8 @@ This profile is a reflection of my **learning journey**, **project work** and **
 
 I am committed to **continuous learning** and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
-## About Me
-# - 📊  **Data Analyst Portfolio and Documentation:** [View my projects](https://medium.com/@cosmasnwaeze)
+#  📊  **My Data Analyst Portfolio:** **[View my projects]**(https://medium.com/@cosmasnwaeze)
+
 - 🎓  **Certifications:** (https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
 - 🖥️  **Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
 - 💻  **Github Projects:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
