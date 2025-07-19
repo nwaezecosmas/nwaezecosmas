@@ -8,13 +8,12 @@ This profile is a reflection of my **learning journey**, **project work** and **
 I am committed to **continuous learning** and documenting my journey in data analytics, combining technical precision with creativity to solve real-world problems.
 
 ## About Me
-- 📍 Based in **Nigeria**
-- 📊  ##**Data Analyst Portfolio and Documentation:** [View my projects](https://medium.com/@cosmasnwaeze)
-- 🎓 ##**Certifications:** (https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
-- 🖥️ ##**Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
-- 💻 ##**Github Projects:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
-- ✉️ ##**Contact me at:** [Email](cosmasnwaeze19@.com)
-- 🔗 ##**Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/) | [Kaggle](https://www.kaggle.com/datarobotics) | [GitHub](https://github.com/nwaezecosmas)
+# - 📊  **Data Analyst Portfolio and Documentation:** [View my projects](https://medium.com/@cosmasnwaeze)
+- 🎓  **Certifications:** (https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
+- 🖥️  **Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
+- 💻  **Github Projects:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
+- ✉️  **Contact me at:** [Email](cosmasnwaeze19@.com)
+- 🔗  **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/)  |  [GitHub](https://github.com/nwaezecosmas)
 
 
 ## Badges  
