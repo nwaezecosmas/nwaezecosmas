@@ -1,4 +1,4 @@
-![data analyst card](https://github.com/user-attachments/assets/d2f50799-43ba-41f1-a7ac-e51536145370)
+![data analyst card](https://github.com/nwaezecosmas/nwaezecosmas/blob/main/DATA%20ANALYST.png)
 
 ## About Me
 
@@ -11,9 +11,8 @@ I am committed to **continuous learning** and documenting my journey in data ana
 
 #  📊  **My Data Analyst Portfolio:** [View my projects](https://medium.com/@cosmasnwaeze)
 
-- 🎓  **Certifications:** (https://github.com/cosmasnwaeze/cosmasnwaeze/tree/main/)
+- 🎓  **Certifications:** (https://github.com/nwaezecosmas/nwaezecosmas)
 - 🖥️  **Data Science, AI and ML Portfolio:** [View my projects](https://www.datascienceportfol.io/cosmasnwaeze19)
-- 💻  **Github Projects:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
 - ✉️  **Contact me at:** [Email](cosmasnwaeze19@.com)
 - 🔗  **Socials:** [LinkedIn](https://www.linkedin.com/in/nwaeze-cosmas/)  |  [GitHub](https://github.com/nwaezecosmas)
 
@@ -148,6 +147,6 @@ I am committed to **continuous learning** and documenting my journey in data ana
 ---
 
 ### **Feel free to reach out or explore my repositories to see how I am using Data Analysis to turn data into actionable insights**.
-- ## 💻 ** CLICK HERE TO GO TO MY GIT HUB PROJECT:** [View my Github projects](https://github.com/nwaezecosmas?tab=repositories)
+- ## 💻 ** CLICK HERE TO GO TO MY PORTFOLIO:** [View my DATA ANALYTICAL PORTFOLIO](https://medium.com/@cosmasnwaeze)
 
 ---
