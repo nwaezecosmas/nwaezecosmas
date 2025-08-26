@@ -1,4 +1,4 @@
-![data analyst card](https://github.com/nwaezecosmas/nwaezecosmas/blob/main/DATA%20ANALYST.png)
+![data analyst card](https://github.com/nwaezecosmas/nwaezecosmas/blob/main/DATA%20ANALYST%20HEADER.png)
 
 ## About Me
 
